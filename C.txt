@@ -1,0 +1,6 @@
+Program C
+Quiz
+20 Questions of Each Subject
+1.Mathematics
+2.Physics
+3.Chemistry
